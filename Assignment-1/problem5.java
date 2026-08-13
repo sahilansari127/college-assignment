@@ -55,7 +55,7 @@ for(int i=0;i<n;i++){
 e[i].show();
 }
 if(n==1){
-System.out.println("\nSince Only one Employee Highest,Lowest and Average Salary is equal to Base Salary:");	
+System.out.println("\nSince Only one Employee therefore Highest,Lowest and Average Salary is equal to Base Salary:");	
 }
 else{ 
 double maxS=e[1].bsal,avg=0;
